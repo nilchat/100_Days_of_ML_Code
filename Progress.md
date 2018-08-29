@@ -17,6 +17,10 @@
 
 ## Day 3 - 28/08/2018
 -  Completed Level 1 of [Kaggle Machine Learning Tutorial](https://www.kaggle.com/learn/machine-learning)
+- Submitted Kaggle project [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/nilchat85/housing-price-modelling)
+
 
 ## Day 4 - 29/08/2018
 -  Started Level 2 of [Kaggle Machine Learning Tutorial](https://www.kaggle.com/learn/machine-learning)
+- Completed EDA for [Blue Book for Bulldozers](https://www.kaggle.com/nilchat85/blue-book-for-bulldozers-eda) project mentioned in [Lesson 1](https://youtu.be/CzdWqFTmn0Y) from fast.ai machine learning course
+- Submitted Kaggle project [Costa Rican Household Poverty Level Prediction](https://www.kaggle.com/nilchat85/costa-rican-household-poverty-level-eda)
