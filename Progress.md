@@ -24,3 +24,10 @@
 -  Started Level 2 of [Kaggle Machine Learning Tutorial](https://www.kaggle.com/learn/machine-learning)
 - Completed EDA for [Blue Book for Bulldozers](https://www.kaggle.com/nilchat85/blue-book-for-bulldozers-eda) project mentioned in [Lesson 1](https://youtu.be/CzdWqFTmn0Y) from fast.ai machine learning course
 - Submitted Kaggle project [Costa Rican Household Poverty Level Prediction](https://www.kaggle.com/nilchat85/costa-rican-household-poverty-level-eda)
+
+## Day 5 - 30/08/2018
+- Started Level 2 of [Kaggle Machine Learning Tutorial](https://www.kaggle.com/learn/machine-learning)
+- Submitted kaggle competition [Titanic: Machine Learning from Disaster](https://www.kaggle.com/nilchat85/eda-titanic-data-rf) with random forest. Got accuracy score 0.77033
+
+## Day 6 - 31/08/2018
+- Submitted kaggle competition [Titanic: Machine Learning from Disaster](https://www.kaggle.com/nilchat85/eda-titanic-data-xgb) with XGBoost. Got accuracy score 0.79904
