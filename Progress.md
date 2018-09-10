@@ -31,3 +31,29 @@
 
 ## Day 6 - 31/08/2018
 - Submitted kaggle competition [Titanic: Machine Learning from Disaster](https://www.kaggle.com/nilchat85/eda-titanic-data-xgb) with XGBoost. Got accuracy score 0.79904
+
+## Day 7 - 01/09/2018
+- Started competition [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+
+## Day 8 - 02/09/2018
+- Completed first submission for [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) with Mean Absolute Error - 27.4495
+
+## Day 9 - 03/09/2018
+- Started Coursera Course [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome)
+
+## Day 10 - 04/09/2018
+- Continue Coursera Course [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome)
+
+## Day 11 - 05/09/2018
+- Continue Coursera Course [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome)
+
+## Day 12 - 06/09/2018
+- Read few articles in analytics vidya
+
+## Day 13 - 07/09/2018
+- Read few articles in analytics vidya
+
+## Day 14 - 08/09/2018
+- Updated kaggle competition [Titanic: Machine Learning from Disaster](https://www.kaggle.com/nilchat85/titanic-eda) with multiple algorithms. 
+## Day 15 - 09/09/2018
+- Updated kaggle competition [Titanic: Machine Learning from Disaster](https://www.kaggle.com/nilchat85/titanic-eda) with multiple algorithms and parameter tuning. 
